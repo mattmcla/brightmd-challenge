@@ -1,0 +1,17 @@
+.site-sidebar {
+  background-color: #fff;
+  padding-left: 1.5em;
+  padding-top: 1.5em;
+}
+
+.site-sidebar h1 {
+  color: #005a87;
+  margin: 0;
+  line-height: 100%;
+}
+
+.site-sidebar a {
+  font-weight: bold;
+  display: block;
+  margin: .5em 0;
+}

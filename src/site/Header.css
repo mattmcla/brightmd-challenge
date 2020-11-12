@@ -1,0 +1,25 @@
+.site-header {
+  height: 5em;
+  padding: 0;
+  background-color: #fff;
+}
+
+.site-header img {
+  height: 3em;
+  display: block;
+}
+
+.site-header .subheader {
+  background-color: #005a87;
+  width: 100%;
+}
+
+.site-header .subheader h1 {
+  font-size: 1em;
+  font-weight: bold;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  line-height: 2em;
+  text-align: center;
+}

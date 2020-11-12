@@ -1,0 +1,16 @@
+.settings-section {
+  margin-bottom: 2em;
+}
+
+.settings-section header {
+  margin-bottom: 1em;
+}
+
+.settings-section header h2 {
+  margin: 0;
+}
+
+.settings-section header p {
+  font-weight: bold;
+  font-size: .8em;
+}
